@@ -24,7 +24,7 @@ img {
     justify-content: space-between;
     align-items: center;
     #brand {
-        background-color: red;
+        background-color: var(--primary-text-color);
         padding: 1rem;
     }
     #navbar{
@@ -38,5 +38,12 @@ img {
         font-weight: bold;
         padding: 1rem;
     }
-    
+ 
+    .square{
+        display: block;
+        width: 150px;
+        height: 150px;
+        background-color: red;
+
+    }
 }
