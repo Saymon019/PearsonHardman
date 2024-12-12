@@ -1,1 +1,1 @@
-# PearsonHardman
+# pearson-hardman
